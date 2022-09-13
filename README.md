@@ -50,11 +50,11 @@ This work is supported by the Korea Agency for Infrastructure Technology Advance
 ## ****Prerequisites****
 
 - python==3.8
-- pytorch (본인 CUDA version에 맞게)
+- pytorch
     
     [PyTorch](https://pytorch.org/get-started/locally/)
     
-- pytorch geometric( 본인 pytorch version과 CUDA version에 맞게)
+- pytorch geometric
     
     [Installation - pytorch_geometric documentation](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
     
