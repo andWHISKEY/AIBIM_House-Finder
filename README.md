@@ -14,13 +14,15 @@ House finder's database is 10,000 image-based house floor plans. We collected im
 
 ### AIBIM-Detector
 
-[[https://dadl.knu.ac.kr/forum/view/699814](https://dadl.knu.ac.kr/forum/view/699814)](/Archi-Detector(English).gif)
+
+https://user-images.githubusercontent.com/86095630/189794489-b563c36e-e652-42f6-970a-137382a44408.mp4
 
 [https://dadl.knu.ac.kr/forum/view/699814](https://dadl.knu.ac.kr/forum/view/699814)
 
 ### AIBIM-Bubble Maker
 
-[[https://dadl.knu.ac.kr/forum/view/699809](https://dadl.knu.ac.kr/forum/view/699809)](/Archi-Bubble_Maker(English).gif)
+
+https://user-images.githubusercontent.com/86095630/189794534-a8a9a86b-9143-445b-a7c2-7cf903b988e1.mp4
 
 [https://dadl.knu.ac.kr/forum/view/699809](https://dadl.knu.ac.kr/forum/view/699809)
 
