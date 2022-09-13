@@ -1,8 +1,5 @@
 # AIBIM_House-Finder
 
-
-## AIBIM-House Finder
-
 - Code and instructions for our paper: SCIE Journal Under Review (2022-April)
 
 ## Introduction
