@@ -12,12 +12,12 @@ def parameter_parser():
     # 자신 local 안의 folder json파일 있는 아무 폴더다 지정
     parser.add_argument("--training-graphs",
                         nargs="?",
-                        default="D:/SimGNNDATA/JSONdataset/Train/",
+                        default="./dataset/Train/",
 	                help="Folder with training graph pair jsons.")
     # 자신 local 안의 folder json파일 있는 아무 폴더다 지정
     parser.add_argument("--testing-graphs",
                         nargs="?",
-                        default="D:/SimGNNDATA/JSONdataset/Test/",
+                        default="./dataset/Train/Test/",
 	                help="Folder with testing graph pair jsons.")
 
     parser.add_argument("--epochs",
