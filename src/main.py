@@ -51,8 +51,8 @@ def main():
     ged_file_name=[]
 
     # local testdataset folder 경로
-    # ex) test_graphs = glob.glob("C:/TestDatasetFolder/" + "*.json")
-    test_graphs = glob.glob("D:/SimGNNDATA/Test1/" + "*.json")
+    # ex) test_graphs = glob.glob("./dataset/test/" + "*.json")
+    test_graphs = glob.glob("./dataset/json data/" + "*.json")
     for graph_pair in (test_graphs):
         data = process_pair(graph_pair)
         origin_ged.append(data['ged'])
